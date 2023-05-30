@@ -1,5 +1,4 @@
 # Stingy Knight
----
 
 It is a university project for the subject "Programming II" I did with a classmate from university. A game where you play as a knight that can walk horizontally or vertically one step at a time, attack his opponent, or get hurt by an obstacle if he touches it.
 
